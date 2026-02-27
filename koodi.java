@@ -12,3 +12,5 @@ Käytetään toteutettua nettiyhteyttä.
 void TulostetaanHeiMaailma() {
    System.out.println("Hei, maailma!");
 }
+
+uusi rivi 5
