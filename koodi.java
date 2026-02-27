@@ -14,3 +14,4 @@ void TulostetaanHeiMaailma() {
 }
 
 uusi rivi 5
+uusi rivi 6
